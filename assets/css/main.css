@@ -669,7 +669,7 @@ section,
 }
 
 .about .progress {
-  height: 36px;
+  height: 30px;
   display: block;
   background: none;
   border-radius: 0;
@@ -1605,4 +1605,12 @@ section,
 --------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
+}
+
+.lang-atg {
+  background-color: #dff478;
+  color: rgb(74, 106, 84);
+  border-radius: 30px;
+  padding: 4px;
+  margin: 15px 10px;
 }
