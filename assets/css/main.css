@@ -1608,9 +1608,23 @@ section,
 }
 
 .lang-atg {
-  background-color: #dff478;
-  color: rgb(74, 106, 84);
-  border-radius: 30px;
+  background-color: #0078ff;
+  color: white;
+  border-radius: 5px;
   padding: 4px;
-  margin: 15px 10px;
+  /* margin: 15px 10px; */
+  height: 5rem;
+}
+
+.banner {
+  display: flex;
+  justify-content: center;
+}
+
+.download-btn {
+  background-color: #0078ff;
+  color: white;
+  border-radius: 30px;
+  height: 2.5rem;
+  width: 8rem;
 }
